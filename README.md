@@ -7,9 +7,9 @@ The goal was to analyse whether a recipe published on a website will be popular 
 The popular recipes lead to a higher traffic of a web site which increases the number of subscriptions.
 
 ## Task and Dataset
-Here you can find a [task](https://github.com/vmagalDS/Datacamp/blob/main/Practical%20Recipe%20Site%20Traffic%202212.pdf)
+Here you can find a [task](https://github.com/vmagalDS/Datacamp/blob/main/DataScienceExam/Practical%20Recipe%20Site%20Traffic%202212.pdf)
 
-Here are the [data](https://github.com/vmagalDS/Datacamp/blob/main/recipe_site_traffic_2212.csv)
+Here are the [data](https://github.com/vmagalDS/Datacamp/blob/main/DataScienceExam/recipe_site_traffic_2212.csv)
 
 ## Solution
 The solution has been written using python.
