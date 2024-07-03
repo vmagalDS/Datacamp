@@ -7,7 +7,7 @@ The goal was to analyse if a recipe of fictional copmpany which is published on 
 The popular recipes lead to a higher traffic of a web site which increases the number of subscriptions.
 
 ## Dataset
-
+Here are the [data](https://github.com/vmagalDS/Datacamp/blob/main/recipe_site_traffic_2212.csv)
 ## Solution
 The solution has been written using python.
  
