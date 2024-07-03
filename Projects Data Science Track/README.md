@@ -1,3 +1,4 @@
 # Projects during Data Science Track
-116 hours, 31 courses, 3 skill assessments, 13 projects
-
+- Predicting Movie Rental Durations
+- Clustering Antarctic Penguin Species
+- Data Scientist Associate Practical Exam
