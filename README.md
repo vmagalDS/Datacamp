@@ -12,5 +12,5 @@ Here you can find a [task](https://github.com/vmagalDS/Datacamp/blob/main/DataSc
 Here are the [data](https://github.com/vmagalDS/Datacamp/blob/main/DataScienceExam/recipe_site_traffic_2212.csv)
 
 ## Solution
-The solution has been written using python.
+The [solution](https://github.com/vmagalDS/Datacamp/blob/main/DataScienceExam/Exam%20Recipe.ipynb) has been written using python.
  
